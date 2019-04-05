@@ -4,13 +4,13 @@
 In this case, I analyze bike renting data with regression tree.
 In the code, you can see the Spark ML pipeline implement!
 ### Introduce File
-*hour.csv
+* hour.csv
 The data I am going to analyze!
-*rdd.py 
+* rdd.py 
 Analyze with RDD!
-*dataframe.py
+* dataframe.py
 Analyze with dataframe, better to look at the column of the data!
-*DS_Bin.scala
+* DS_Bin.scala
 Analyze with dataset, using scala to implement!
 
 ### Spark environment Setup
