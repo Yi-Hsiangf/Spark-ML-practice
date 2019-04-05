@@ -17,9 +17,18 @@ Analyze with RDD!
 
 Analyze with dataframe, better to look at the column of the data!
 
+* bike_dataframe.ipynb
+
+Analyze the data with dataframe, and easy to look at the code and result!
+
+
 * DS_Bin.scala
 
 Analyze with dataset, using scala to implement!
+
+* DS_Bin.zip
+
+The whole file that needed! The file include the DS_Bin.scala and also Build.sbt!
 
 ### Spark environment Setup
 ```bash
