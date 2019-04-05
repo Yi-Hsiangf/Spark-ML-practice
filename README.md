@@ -24,11 +24,11 @@ Analyze the data with dataframe, and easy to look at the code and result!
 
 * DS_Bin.scala
 
-Analyze with dataset, using scala to implement!
+Analyze with dataset, and use scala to implement!
 
 * DS_Bin.zip
 
-The whole file that needed! The file include the DS_Bin.scala and also Build.sbt!
+The whole file that is needed! The file include the DS_Bin.scala and also Build.sbt!
 
 ### Spark environment Setup
 ```bash
